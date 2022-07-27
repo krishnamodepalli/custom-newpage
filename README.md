@@ -25,5 +25,6 @@ An all new New_Tab for chrome that is able to make searches.
 Click the Home button on left-top corner to go to the custom New_tab page.
 
 ## TODO's
+- [X] Dark Mode (Adapts to the system theme.)
 - [ ] Showing time in the Web-Page.
 - [ ] Greeting User.
