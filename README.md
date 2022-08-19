@@ -2,7 +2,11 @@
 
 An all new New_Tab for chrome that is able to make searches.
 
-## Changes for different search-engines:
+## Default Search-Engine
+- **DuckDuckGo (ddg)**
+
+## Changes for different Search-Engines:
+_The changes should be made in the index.html file at 15th line._
 1. duckduckgo
 ```html
 <form action="https://duckduckgo.com/" class="searchform" method="get" name="searchform">
@@ -15,6 +19,7 @@ An all new New_Tab for chrome that is able to make searches.
 ```html
 <form action="https://bing.com/search?q=" class="searchform" method="get" name="searchform">
 ```
+_Also change the placeholder in the 21st line._
 
 ## How to add to Chrome
 1. (3 dots on top-right corner) > Settings.
